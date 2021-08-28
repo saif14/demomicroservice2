@@ -1,0 +1,5 @@
+package com.dummy.microservice.productservice.controller;
+
+public class ProductController {
+
+}

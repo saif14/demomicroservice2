@@ -1,0 +1,10 @@
+server:
+  port: 9001
+
+spring:
+  application:
+    name: PRODUCT-SERVICE
+  datasource:
+    url: jdbc:postgresql://localhost:5433/dummyApiDb
+    username: postgres
+    password: 123456789
